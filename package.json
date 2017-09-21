@@ -1,0 +1,24 @@
+{
+  "name": "onion-cli",
+  "version": "2.2.0",
+  "description": "onion cli",
+  "bin": {
+    "onion": "index.js"
+  },
+  "scripts": {
+    "test": "null"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "dongchongyang@meituan.com",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^8.0.2"
+  }
+}
